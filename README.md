@@ -1,37 +1,11 @@
-<h1 align="center">BuildC3</h1>
-
 <p align="center">
-  <b>Build Fast. Build Together. Ship Now.</b>
+  <a href="https://buildc3.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=900&color=5C79FF&center=true&vCenter=true&width=820&height=90&lines=BuildC3+inbuilt+for+the+community." alt="BuildC3 inbuilt for the community." />
+  </a>
 </p>
 
 <p align="center">
-  Builders &amp; developers community.<br>
-  Build <b>in</b> the community, <b>with</b> the community, <b>for</b> the community.
+  <a href="https://buildc3.tech">
+    <img src="https://img.shields.io/badge/buildc3.tech-5C79FF?style=for-the-badge&logoColor=white" alt="buildc3.tech" />
+  </a>
 </p>
-
-<p align="center">
-  <a href="https://buildc3.tech">buildc3.tech</a>
-</p>
-
----
-
-### What's here
-
-| | |
-|---|---|
-| **Projects** | Built in public. Open to contribution. |
-| **Services** | MVPs shipped for founders and teams. |
-| **Resources** | Tooling, templates and guides for builders. |
-
-### Contribute
-
-```bash
-git clone https://github.com/<org>/<repo>
-cd <repo> && npm i && npm run dev
-```
-
-Branch off `main`, open a PR.
-
-### Links
-
-🌐 [buildc3.tech](https://buildc3.tech)
