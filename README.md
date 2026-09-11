@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://buildc3.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=900&color=5C79FF&center=true&vCenter=true&width=820&height=90&lines=BuildC3+inbuilt+for+the+community." alt="BuildC3 inbuilt for the community." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=900&color=5C79FF&center=true&vCenter=true&width=900&height=90&lines=Build+C3+%3A+in%2C+with+and+for+the+community." alt="Build C3 : in, with and for the community." />
   </a>
 </p>
 
